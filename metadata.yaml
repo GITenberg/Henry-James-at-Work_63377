@@ -1,5 +1,8 @@
 _repo: Henry-James-at-Work_63377
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: archival
+  image_path: 63377-h/images/james_cover.jpg
 creator:
   author:
     agent_name: Bosanquet, Theodora
@@ -8,6 +11,8 @@ creator:
     gutenberg_agent_id: '52411'
     url: http://www.gutenberg.org/2009/agents/52411
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/63377#Henry-James-at-Work
 gutenberg_issued: '2020-10-05'
 gutenberg_type: Text
 identifiers:
