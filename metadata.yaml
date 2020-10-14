@@ -1,0 +1,25 @@
+_repo: Henry-James-at-Work_63377
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Bosanquet, Theodora
+    birthdate: 1881
+    deathdate: 1961
+    gutenberg_agent_id: '52411'
+    url: http://www.gutenberg.org/2009/agents/52411
+description: ''
+gutenberg_issued: '2020-10-05'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '63377'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'James, Henry, 1843-1916'
+- !lcsh 'Authors, American -- 19th century -- Biography'
+- !lcc 'PS'
+- GITenberg
+title: Henry James at Work
+url: http://www.gutenberg.org/ebooks/63377
